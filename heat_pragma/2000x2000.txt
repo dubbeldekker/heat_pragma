@@ -1,0 +1,4 @@
+Output:
+
+   Iterations        T(min)        T(max)       T(diff)        T(avg)          Time        FLOP/s
+0             -9.803923e+00  8.980392e+01  1.327162e+01  5.858436e-01  6.704448e+07  0.000000e+00
